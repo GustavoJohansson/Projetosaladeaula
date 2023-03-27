@@ -1,0 +1,13 @@
+div {
+    background-color: rgb(134, 233, 139) ;
+    margin: 50px auto;
+}
+
+h1, p {
+    padding: 15px 40px;
+}
+
+img{
+    height: 60%;
+    width: 60%;
+}
